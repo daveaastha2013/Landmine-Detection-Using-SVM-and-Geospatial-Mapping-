@@ -1,0 +1,7 @@
+numpy
+pandas
+sklearn.model_selection
+sklearn.svm
+sklearn.metrics
+matplotlib.pyplot
+folium
