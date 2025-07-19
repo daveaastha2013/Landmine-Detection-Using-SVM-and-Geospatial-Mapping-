@@ -13,4 +13,8 @@ data (metal detection intensity, ground density, GPS coordinates).
 - Run analyse_sensor_data.py
 
 In order to use specific sensor data
-- Edit the code 
+- Edit the ```data``` dictionary in the code to include your specific data.
+
+## Future Improvements
+- Add heatmaps and clustering to better visualize high-risk zones and reduce map clutter in densely marked areas.
+- Allow map usage in remote areas without internet access.
