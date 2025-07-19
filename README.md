@@ -7,3 +7,10 @@ data (metal detection intensity, ground density, GPS coordinates).
 - We visualise the detected landmines on a map created by folium
 - The model accuracy, precision, f1 score and confusion matirx are calculated to judge its performance.
 
+## How to use
+- Clone the repository.
+- Download all requirements.
+- Run analyse_sensor_data.py
+
+In order to use specific sensor data
+- Edit the code 
